@@ -3,7 +3,9 @@
 🚀 Aspiring Software Engineer | Backend & Cloud Developer | AI & Data Enthusiast
 
 🔹 Master’s in Computer Science | California State University, Fullerton (Aug 2023 - May 2025)
+
 🔹 4+ years of experience in backend development, cloud computing, and scalable architectures
+
 🔹 Passionate about building high-performance APIs, distributed systems, and AI-driven solutions
 
 🔧 Tech Stack & Skills
